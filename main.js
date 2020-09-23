@@ -53,6 +53,7 @@ const speedMessage = speed === 70
   : console.log(`${speed} is a decent speed`)
 
   console.log(speedMessage)
+  
 
 //4. 
 // map through an array and if the value is greater than 50 it goes in the arr1
